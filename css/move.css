@@ -1,6 +1,13 @@
+a{
+	text-decoration: none;
+	color:#ffffff;
+}
+body{
+	background-image: url("../img/a.jpg");
+	background-size: cover;
+}
 #div{
 	color: aliceblue;
-	/* background-color: #521; */
 	margin: 0% 5%;
 	width:90%;
 	float: left;
@@ -12,7 +19,6 @@
 	width:40%;
 	height: 10%;
 	color: #000;
-	/* background-color: #096; */
 	float: left;
 }
 #p1{

@@ -1,0 +1,24 @@
+a{
+	text-decoration: none;
+	color:#803080;
+}
+#div1 {
+		width: 100%;
+	}
+/* 整体大块（不包含head） */
+#div2 {
+	width: 100%;
+}
+/* 两个专区，专区标题在本div的内嵌div */
+#div3 {
+	width: 40%;
+	margin: 5%;
+	float: left;
+}
+/* 各个具体的链接及图片、介绍 */
+#div-head{
+	width:25%;
+	height: 100%;
+	float: left;
+}
+/* 标题栏 */
